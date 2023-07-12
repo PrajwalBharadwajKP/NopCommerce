@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-11T18:08:07 IST" name="Default suite" finished-at="2023-07-11T18:08:40 IST" duration-ms="33759">
+    <groups>
+    </groups>
+    <test started-at="2023-07-11T18:08:07 IST" name="Default test" finished-at="2023-07-11T18:08:40 IST" duration-ms="33759">
+      <class name="Test.REB_003">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Test.REB_003@248e319b]" started-at="2023-07-11T18:08:07 IST" name="openBrowser" finished-at="2023-07-11T18:08:10 IST" duration-ms="3853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="reg_003()[pri:0, instance:Test.REB_003@248e319b]" started-at="2023-07-11T18:08:10 IST" name="reg_003" finished-at="2023-07-11T18:08:40 IST" duration-ms="29862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reg_003 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Test.REB_003@248e319b]" started-at="2023-07-11T18:08:40 IST" name="closeBrowser" finished-at="2023-07-11T18:08:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Test.REB_003 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
